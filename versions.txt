@@ -1,0 +1,29 @@
+Jan 13, 2006 - version 1.0 to EUKLEMS
+Jan 23, 2006 - modified concordance table to use EU72 and split for
+equipment rental put on Mun's FTP site
+
+Feb 6, new version with changes only to concordance
+After emails from Marcel regarding industry classification, we redid some of the concordance, but changed no data
+including govt educ and gov hospital map to private
+video rental gets allocated to equipment rental
+warehousing and trucking gets split
+advertising gets allocated
+pipelines gets allocated
+
+Feb 21, fixed export error for output in file USKLEM1960_2000.xls
+
+Feb 27, added file EU_USlinkts.xls - time series of maps. Removed old mapping from excel files.
+
+June 26, 2006. 2004 verions available. USKLEM.zip, USLABOR1.zip, USLABOR2.zip, USLABOR3.zip
+are updates based on the same definitions. Due to NAICS, the capital classification has
+changed and we have not linked the full industry by asset databse. We estimate capital on a NAICS basis
+and link back to SIC. The new NAICS based capital is in uscapital.zip and usinv.zip
+
+
+
+Nov 8. 
+USKLEM.zip fixes error for OOH residential capital
+eucapitalts.zip has time series of inv, stock and services, with K services being scaled to BLS, ie KLEM
+
+Aug 8 2007. Ankur Patel, Jon Samuels and Mun Ho Updated to 2005. Note different format for labor data.
+
